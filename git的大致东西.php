@@ -29,4 +29,4 @@ git clone 仓库地址
 
 个人站点的搭建步骤 
 1.创建个人站点     就是新建仓库   仓库名必须是用户名.github.io
-2.在仓库下新建index.html文件即可
+2.在仓库下新建index.html文件即可     github pages 仅支持静态网页  仓库里只能是html文件
