@@ -22,7 +22,11 @@ git基础设置 （必须先弄）
 2.git commit -m ‘ 描述 ’  描述一些 
 
 将本地仓库内容同步到git远程仓库中
-git pus  
+git push
 
 将别人仓库下载可以将地址复制
 git clone 仓库地址
+
+个人站点的搭建步骤 
+1.创建个人站点     就是新建仓库   仓库名必须是用户名.github.io
+2.在仓库下新建index.html文件即可
